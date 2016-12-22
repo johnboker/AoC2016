@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{58D8DA61-81C6-42AD-AA75-868AAB90B6B4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AoC2016/Solutions/Day22.cs">
+    <Files>
+      <File FileName="AoC2016/input/day22.txt" Line="960" Column="48" />
+      <File FileName="AoC2016/Solutions/Day22.cs" Line="37" Column="3" />
+      <File FileName="AoC2016/input/day22-example.txt" Line="9" Column="46" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.AoC2016 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
