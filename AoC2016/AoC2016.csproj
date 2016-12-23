@@ -93,6 +93,9 @@
     <None Include="input\day21-example.txt" />
     <None Include="input\day22.txt" />
     <None Include="input\day22-example.txt" />
+    <None Include="input\day23.txt" />
+    <None Include="input\day23-example.txt" />
+    <None Include="input\day23-optimized.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

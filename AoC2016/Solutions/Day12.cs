@@ -13,17 +13,13 @@ namespace AoC2016.Solutions
 
 		public Day12()
 		{
-			var lines = File.ReadLines("../../input/day12.txt").ToList();
-			Commands = new List<Command>();
-
-			foreach (var line in lines)
-			{
-				Commands.Add(new Command(line, Registers));
-			}
+			
 		}
 
 		public int Solve()
 		{
+			Commands = File.ReadLines("../../input/day12.txt").Select(a=>new Command(a, Registers)).ToList();
+
 			var currentPosition = 0;
 
 			while (currentPosition < Commands.Count())
