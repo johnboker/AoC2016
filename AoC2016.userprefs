@@ -1,12 +1,15 @@
 ﻿<Properties StartupConfiguration="{58D8DA61-81C6-42AD-AA75-868AAB90B6B4}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AoC2016/Solutions/Day24.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AoC2016/Solutions/Day25.cs">
     <Files>
       <File FileName="AoC2016/Program.cs" Line="24" Column="5" />
-      <File FileName="AoC2016/Solutions/Day24.cs" Line="75" Column="99" />
+      <File FileName="AoC2016/Solutions/Day24.cs" Line="118" Column="5" />
       <File FileName="AoC2016/input/day24.txt" Line="1" Column="43" />
       <File FileName="AoC2016/Solutions/Day21.cs" Line="28" Column="4" />
       <File FileName="AoC2016/Utilities.cs" Line="67" Column="19" />
       <File FileName="AoC2016/input/day24-example.txt" Line="2" Column="1" />
+      <File FileName="AoC2016/input/day25.txt" Line="30" Column="10" />
+      <File FileName="AoC2016/Solutions/Day23.cs" Line="11" Column="3" />
+      <File FileName="AoC2016/Solutions/Day25.cs" Line="173" Column="4" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
